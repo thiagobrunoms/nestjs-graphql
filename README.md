@@ -61,4 +61,4 @@ $ npm run test:cov
 ## Stay in touch
 
 - Author - Thiago Bruno Melo de Sales
-- LinkedIn - [Thiago de Sales](www.linkedin.com/in/thiagodesales)
+- LinkedIn - www.linkedin.com/in/thiagodesales
